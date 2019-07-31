@@ -1,0 +1,11 @@
+[11-Mar-2019 00:06:40 America/Sao_Paulo] PHP Notice:  Undefined index: custom_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 47
+[11-Mar-2019 00:08:08 America/Sao_Paulo] PHP Notice:  Undefined index: charge_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 43
+[11-Mar-2019 00:08:08 America/Sao_Paulo] PHP Notice:  Undefined index: custom_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 47
+[11-Mar-2019 00:11:54 America/Sao_Paulo] PHP Notice:  Undefined index: custom_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 47
+[11-Mar-2019 00:11:54 America/Sao_Paulo] PHP Notice:  Array to string conversion in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 59
+[11-Mar-2019 00:14:55 America/Sao_Paulo] PHP Notice:  Undefined index: custom_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 47
+[11-Mar-2019 00:52:18 America/Sao_Paulo] PHP Notice:  Undefined index: charge_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 45
+[11-Mar-2019 14:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: charge_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 45
+[26-Mar-2019 15:45:32 America/Sao_Paulo] PHP Notice:  Undefined index: charge_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 45
+[26-Mar-2019 18:15:25 America/Sao_Paulo] PHP Notice:  Undefined index: charge_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 45
+[26-Mar-2019 20:37:07 America/Sao_Paulo] PHP Notice:  Undefined index: charge_id in /home/prmuller/public_html/Deal/gerencianet/assinatura/notification/notification.php on line 45

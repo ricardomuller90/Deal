@@ -1,0 +1,95 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript">  
+     (function () {  
+        // utilizaremos jQuery para facilitar nos seletores dos elementos  
+        jQuery(function () {  
+           $('input[name="calcular"]').click(function () {            
+    
+              // convertemos o valor1, valor2 para float  
+              var n1 = parseFloat($('input[name="valor1"]').val()),       
+                 n2 = parseFloat($('input[name="valor2"]').val());  
+                   
+              // obtemos o tipo da operação selecionado pelo usuário             
+              var operacao = $('input[name="operacao"]:checked').val();  
+    
+              // chamamos o método calc, passando os valores de n1, n2 e o tipo de operação  
+              // eval() é utilizado para que o valor do tipo 'string' seja reconhecido como um tipo de comando  
+              var resultado = calc(n1, n2, eval(operacao));  
+    
+              // escrevemos o resultado na <div class="resultado"> com algumas estilizações  
+              $('.resultado')  
+                 .css({ 'font-weight': 'bold', 'font-size': '18pt' })  
+                 .html(resultado);  
+           });  
+        });  
+          
+        function calc(n1, n2, method) {  
+           return method(n1, n2);  
+        }  
+    
+        function somar(n1, n2) {  
+           return n1 + n2;  
+        }  
+    
+        function subtrair(n1, n2) {  
+           return n1 - n2;  
+        }  
+    
+        function multiplicar(n1, n2) {  
+           return n1 * n2;  
+        }  
+    
+        function dividir(n1, n2) {  
+           if (n2 === 0) {  
+              return "Divisão não pode ser por Zero.";  
+           }  
+           return n1 / n2;  
+        }   
+     })();  
+  </script>  
+
+
+
+<h2>Exemplo - JavaScript com jQuery</h2>  
+  <table border="1" cellpadding="10" cellspacing="0">    
+    <tr>  
+     <td>Operação: </td>      
+      <td>        
+        <input type="radio" name="operacao" value="somar" checked="checked"/> Somar   
+        <input type="radio" name="operacao" value="dividir" /> Dividir   
+        <input type="radio" name="operacao" value="multiplicar" /> Multiplicar   
+        <input type="radio" name="operacao" value="subtrair" /> Subtrair   
+      </td>      
+    </tr>  
+    <tr>  
+      <td>Valor 1:</td>  
+      <td>        
+        <input type="text" name="valor1" value="0" />        
+      </td>      
+  </tr>  
+    <tr>  
+      <td>Valor 2:</td>  
+      <td>        
+        <input type="text" name="valor2" value="0" />        
+        <input type="button" name="calcular" value="Calcular" />  
+      </td>      
+    </tr>    
+    <tr>  
+      <td>Resultado:</td>  
+      <td>  
+        <div class="resultado"></div>  
+      </td>  
+    </tr>    
+  </table>  
+
+
+</body>
+
+</html>

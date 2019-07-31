@@ -1,0 +1,172 @@
+[15-Jan-2019 20:28:47 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:28:47 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:14 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:14 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:16 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:17 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:18 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:18 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[16-Jan-2019 01:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 26
+[15-Jan-2019 21:18:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function start_session() in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 1
+[15-Jan-2019 21:28:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 45
+[16-Jan-2019 01:28:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 44
+[16-Jan-2019 01:29:08 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/prmuller/public_html/claudia/novo/insalubridade/salva.php:44) in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 45
+[16-Jan-2019 02:48:17 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 26
+[16-Jan-2019 02:48:17 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 60
+[16-Jan-2019 02:51:06 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 60
+[15-Jan-2019 23:03:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 491
+[16-Jan-2019 07:44:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 307
+[16-Jan-2019 11:45:34 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 11:45:34 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 364
+[16-Jan-2019 11:46:11 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 11:47:21 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 11:47:37 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 11:47:56 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 11:48:08 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 11:48:12 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 11:48:20 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 11:48:53 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 12:16:52 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 17:37:09 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[16-Jan-2019 17:37:21 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 328
+[26-Jan-2019 17:50:46 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 344
+[26-Jan-2019 17:52:10 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 345
+[26-Jan-2019 17:52:41 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 345
+[26-Jan-2019 17:52:44 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 345
+[30-Jan-2019 15:48:30 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 345
+[30-Jan-2019 11:49:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 346
+[12-Feb-2019 00:07:04 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 376
+[12-Feb-2019 00:07:38 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 376
+[12-Feb-2019 00:07:52 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 376
+[12-Feb-2019 00:14:29 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 381
+[12-Feb-2019 00:16:12 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 395
+[12-Feb-2019 00:30:04 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 283
+[12-Feb-2019 00:34:27 America/Sao_Paulo] PHP Notice:  Undefined variable: ftgs in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 85
+[11-Feb-2019 20:36:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 85
+[13-Feb-2019 12:27:28 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 376
+[13-Feb-2019 12:27:44 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 376
+[13-Feb-2019 12:28:55 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 376
+[13-Feb-2019 15:30:19 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 376
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 50
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 88
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 100
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 139
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 150
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 192
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 203
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 244
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 254
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 473
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 477
+[19-Feb-2019 16:54:47 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 515
+[19-Feb-2019 23:00:32 America/Sao_Paulo] PHP Notice:  Undefined index: adicional in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 515
+[19-Feb-2019 23:00:42 America/Sao_Paulo] PHP Notice:  Undefined index: adicional in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 515
+[19-Feb-2019 23:00:58 America/Sao_Paulo] PHP Notice:  Undefined index: adicional in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 515
+[20-Feb-2019 10:36:30 America/Sao_Paulo] PHP Notice:  Undefined index: adicional in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 515
+[08-Mar-2019 09:04:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/prmuller/public_html/claudia/novo/insalubridade/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 5
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 84
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 92
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 104
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 143
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 154
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 188
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 196
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 207
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 239
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 248
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 258
+[09-Mar-2019 13:01:25 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 396
+[09-Mar-2019 10:33:15 America/Chicago] PHP Warning:  require_once(../../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/Deal/insalubridade/index.php on line 6
+[09-Mar-2019 10:33:15 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/Deal/insalubridade/index.php on line 6
+[09-Mar-2019 10:34:09 America/Chicago] PHP Warning:  require_once(../../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/Deal/insalubridade/index.php on line 6
+[09-Mar-2019 10:34:09 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/Deal/insalubridade/index.php on line 6
+[09-Mar-2019 10:34:10 America/Chicago] PHP Warning:  require_once(../../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/Deal/insalubridade/index.php on line 6
+[09-Mar-2019 10:34:10 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/Deal/insalubridade/index.php on line 6
+[09-Mar-2019 10:34:15 America/Chicago] PHP Warning:  require_once(../../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/Deal/insalubridade/index.php on line 6
+[09-Mar-2019 10:34:15 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/Deal/insalubridade/index.php on line 6
+[09-Mar-2019 14:50:13 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 396
+[09-Mar-2019 14:50:16 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 396
+[09-Mar-2019 17:35:34 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 401
+[09-Mar-2019 17:42:29 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 402
+[09-Mar-2019 17:42:31 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 402
+[09-Mar-2019 17:43:11 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 402
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 90
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 98
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 110
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 149
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 160
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 194
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 202
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 213
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 245
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 254
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 264
+[09-Mar-2019 17:44:36 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 402
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 73
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 81
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 93
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 132
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 143
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 177
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 185
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 196
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 228
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 237
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 247
+[09-Mar-2019 18:09:58 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 385
+[26-Mar-2019 22:29:41 America/Sao_Paulo] PHP Notice:  Undefined index: adicional in /home/prmuller/public_html/Deal/insalubridade/index.php on line 496
+[28-Mar-2019 00:20:43 America/Sao_Paulo] PHP Notice:  Undefined index: adicional in /home/prmuller/public_html/Deal/insalubridade/index.php on line 496
+[28-Mar-2019 00:32:22 America/Sao_Paulo] PHP Notice:  Undefined index: adicional in /home/prmuller/public_html/Deal/insalubridade/index.php on line 496
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/include/query_processo.php on line 7
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 73
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 81
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 93
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 132
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 143
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 177
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 185
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 196
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 228
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 237
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 247
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 385
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/insalubridade/index.php on line 466
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/insalubridade/index.php on line 470
+[28-Mar-2019 17:06:09 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/Deal/insalubridade/index.php on line 496
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/include/query_processo.php on line 7
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 73
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 81
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 93
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 132
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 143
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 177
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 185
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 196
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 228
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 237
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 247
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 385
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/insalubridade/index.php on line 466
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/insalubridade/index.php on line 470
+[28-Mar-2019 17:07:13 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/Deal/insalubridade/index.php on line 496
+[28-Mar-2019 20:40:39 America/Sao_Paulo] PHP Notice:  Undefined index: adicional in /home/prmuller/public_html/Deal/insalubridade/index.php on line 496
+[15-Apr-2019 21:41:56 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/prmuller/public_html/Deal/insalubridade/salva.php on line 37
+[27-Apr-2019 11:42:21 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/include/query_processo.php on line 7
+[27-Apr-2019 11:42:21 America/Sao_Paulo] PHP Notice:  Undefined variable: reflexos in /home/prmuller/public_html/Deal/insalubridade/index.php on line 62
+[27-Apr-2019 11:42:21 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 73
+[27-Apr-2019 11:42:21 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/Deal/insalubridade/index.php on line 84
+[27-Apr-2019 11:42:21 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/Deal/insalubridade/index.php on line 257
+[27-Apr-2019 11:42:21 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/insalubridade/index.php on line 286
+[27-Apr-2019 11:42:21 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/Deal/insalubridade/index.php on line 290
+[27-Apr-2019 11:42:21 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/Deal/insalubridade/index.php on line 316

@@ -1,0 +1,84 @@
+[15-Jan-2019 20:28:47 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:28:47 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:14 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:14 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:16 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:17 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:18 America/Chicago] PHP Warning:  require_once(../config/init.php): failed to open stream: No such file or directory in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[15-Jan-2019 20:29:18 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../config/init.php' (include_path='.:/opt/php71/lib/php') in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 2
+[16-Jan-2019 01:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 26
+[15-Jan-2019 21:18:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function start_session() in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 1
+[15-Jan-2019 21:28:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 45
+[16-Jan-2019 01:28:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 44
+[16-Jan-2019 01:29:08 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/prmuller/public_html/claudia/novo/insalubridade/salva.php:44) in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 45
+[16-Jan-2019 02:48:17 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 26
+[16-Jan-2019 02:48:17 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 60
+[16-Jan-2019 02:51:06 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/prmuller/public_html/claudia/novo/insalubridade/salva.php on line 60
+[15-Jan-2019 23:03:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/prmuller/public_html/claudia/novo/insalubridade/index.php on line 491
+[16-Jan-2019 11:13:41 America/Sao_Paulo] PHP Notice:  Undefined index: valores in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 283
+[16-Jan-2019 11:30:32 America/Sao_Paulo] PHP Notice:  Undefined index: valores in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 283
+[16-Jan-2019 07:38:37 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 279
+[16-Jan-2019 11:38:47 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 283
+[16-Jan-2019 11:38:47 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 302
+[16-Jan-2019 11:39:20 America/Sao_Paulo] PHP Notice:  Undefined variable: valor in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 283
+[16-Jan-2019 11:39:20 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 302
+[16-Jan-2019 11:39:22 America/Sao_Paulo] PHP Notice:  Undefined variable: valor in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 283
+[16-Jan-2019 11:39:22 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 302
+[16-Jan-2019 11:40:22 America/Sao_Paulo] PHP Notice:  Undefined index: valor in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 283
+[16-Jan-2019 11:40:22 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 302
+[16-Jan-2019 11:40:51 America/Sao_Paulo] PHP Notice:  Undefined index: valor in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 284
+[16-Jan-2019 11:40:51 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 303
+[16-Jan-2019 11:40:54 America/Sao_Paulo] PHP Notice:  Undefined index: valor in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 284
+[16-Jan-2019 11:40:54 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 303
+[16-Jan-2019 11:41:01 America/Sao_Paulo] PHP Notice:  Undefined index: valor in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 284
+[16-Jan-2019 11:41:01 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 303
+[16-Jan-2019 11:42:15 America/Sao_Paulo] PHP Notice:  Undefined variable: row in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 303
+[16-Jan-2019 12:13:49 America/Sao_Paulo] PHP Notice:  Undefined index: HTTP_REFERER in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 186
+[12-Feb-2019 19:44:59 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:44:59 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:45:16 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:45:16 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:46:31 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:46:31 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:46:33 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:46:33 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:48:13 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:48:13 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:48:15 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:48:15 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:48:29 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:48:29 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:48:30 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:48:30 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:48:40 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:48:40 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 19:48:41 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 76
+[12-Feb-2019 19:48:41 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/dif-salariais/index.php on line 86
+[12-Feb-2019 21:31:32 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/prmuller/public_html/claudia/novo/ind_div/salva.php:69) in /home/prmuller/public_html/claudia/novo/ind_div/salva.php on line 70
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 65
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 94
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 104
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 138
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 148
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined variable: fgts in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 177
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined variable: multaFgts in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 187
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 397
+[17-Feb-2019 23:17:57 America/Sao_Paulo] PHP Notice:  Undefined index: idProcesso in /home/prmuller/public_html/claudia/novo/fgtsContrato/index.php on line 401
+[17-Feb-2019 23:36:05 America/Sao_Paulo] PHP Notice:  Undefined index: multaFgts in /home/prmuller/public_html/claudia/novo/sfgtsContr/index.php on line 434
+[17-Feb-2019 23:36:06 America/Sao_Paulo] PHP Notice:  Undefined index: multaFgts in /home/prmuller/public_html/claudia/novo/sfgtsContr/index.php on line 434
+[17-Feb-2019 23:36:58 America/Sao_Paulo] PHP Notice:  Undefined index: multaFgts in /home/prmuller/public_html/claudia/novo/sfgtsContr/index.php on line 434
+[17-Feb-2019 23:37:44 America/Sao_Paulo] PHP Notice:  Undefined index: multaFgts in /home/prmuller/public_html/claudia/novo/sfgtsContr/index.php on line 434
+[18-Feb-2019 00:16:54 America/Sao_Paulo] PHP Notice:  Undefined variable: calcular in /home/prmuller/public_html/claudia/novo/sfgtsContr/index.php on line 384
+[18-Feb-2019 00:17:24 America/Sao_Paulo] PHP Notice:  Undefined variable: calcular in /home/prmuller/public_html/claudia/novo/sfgtsContr/index.php on line 384
+[18-Feb-2019 00:21:15 America/Sao_Paulo] PHP Notice:  Undefined index: Calcular in /home/prmuller/public_html/claudia/novo/sfgtsContr/index.php on line 370
+[03-Mar-2019 15:25:54 America/Sao_Paulo] PHP Notice:  Undefined variable: calcular in /home/prmuller/public_html/claudia/novo/sfgtsContr/index.php on line 422
+[01-Apr-2019 01:02:13 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/prmuller/public_html/Deal/sfgtsContr/salva.php on line 30
+[01-Apr-2019 01:02:32 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/prmuller/public_html/Deal/sfgtsContr/salva.php on line 30

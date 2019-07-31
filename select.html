@@ -1,0 +1,29 @@
+<html>
+<head>
+</head>
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script>
+$(document).ready(function() {
+$('select').change(function() {
+   var varURL = $("option:selected", this).val();
+   $("#exibeValor").html('O valor selecionado é: ' + varURL);
+   });
+});
+</script>
+
+
+<h2>JQuery - Change</h2>
+<form name="frmChange">
+   <select style="width:160px">
+     <option value="Valor 1">Valor 1</option>
+     <option value="Valor 2">Valor 2</option>
+     <option value="Valor 3">Valor 3</option>
+   </select>
+</form>
+<br />
+<div id="exibeValor"></div>
+
+</body>
+</html>
